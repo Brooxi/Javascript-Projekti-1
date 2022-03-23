@@ -1,1 +1,3 @@
 # Javascript-Projekti-1
+
+Tämä on ensimmäinen javascript ohjelma minkä olen luonut. Olen käyttänyt apuna koodia osaajilta, mitä löysin netistä. Ohjelman pointtina on, että voit luoda itsellesi listan mitä teet päivän aikana tai voit luoda itsellesi vaikka kauppalapun. Kirjoita mitä tahansa ohjelmassa olevaan laatikkoon ja sitten painat plus painiketta. Tämän jälkeen tämä kirjoittamasi asia, menee laatikon alle olevalle listalle. Voit kirjoittaa niin monta asiaa, kuin haluat. Mikäli haluat poistaa jotain kirjoittamaasi, niin tuplaklikkaa sitä sanaa, mikä on listassa. Ensimmäisellä klikillä sanan päälle tulee pitkä viiva. Toisella klikkauksella sana poistuu.
